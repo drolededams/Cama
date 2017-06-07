@@ -1,0 +1,193 @@
+HEADER
+{
+	background-color: #1D3C57;
+	font-family: sans-serif;
+}
+
+FORM INPUT
+{
+	display: block;
+}
+
+body
+{
+	font-family: sans-serif;
+	background-color: #CCEFF9;
+
+}
+.img
+{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.col
+{
+	display: flex;
+}
+
+.coms
+{
+	width: 325px;
+	height: 200px;
+	display: inline-block;
+	text-align: left;
+	background-color: #3C7F93;
+	overflow: auto;
+}
+
+.com
+{
+	background-color: #3C9F93;
+
+}
+
+.commentaire
+{
+	background-color: white;
+}
+
+.date
+{
+font-size : 14px;
+font-style : italic;
+}
+
+.like_image
+{
+	float:right;
+}
+
+.side_photo
+{
+	width: 100%;
+	height: 260px;
+	overflow-x : auto;
+	white-space: nowrap;
+}
+
+#gallery
+{
+	width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.surcadre
+{
+	margin:auto;
+}
+
+.cadre
+{
+	text-align: center;
+}
+
+.encart
+{
+	width: 700px;
+	height: 400px;
+	background-color: #7AA2AE;
+	display: flex;
+}
+
+.com_gallery
+{
+	width: 325px;
+	display: inline-block;
+	text-align: left;
+	background-color: #3C7F93;
+}
+
+.com_img
+{
+	width: 325px;
+	display: inline-block;
+	text-align: left;
+	background-color: #3C7F93;
+}
+
+.post
+{
+	float:left;
+}
+
+.nb_likes
+{
+	float:right;
+}
+
+.logo
+{
+	font-family: fantasy;
+	font-size: xx-large;
+	text-align: center;
+	color: #19D8FE;
+}
+
+.footer
+{
+	font-style: italic;
+	text-align: right;
+	color: #19D8FE;
+	background-color: #1D3C57;
+}
+
+.like_gallery
+{
+	float:right;
+}
+
+.like_img
+{
+	float:left;
+}
+
+.post_com
+{
+	float:right;
+}
+
+.welcome
+{
+
+}
+
+.sticker
+{
+	display: inline;
+}
+
+.own_photos
+{
+	display: inline;
+}
+
+a:visited
+{
+	color: white;
+}
+
+button
+{
+	background-color: #1D3C57;
+	border-color: white;
+	border-radius: 50px;
+	color: white;
+	padding: 3px 7px;
+	text-align: center;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+TEXTAREA
+{
+	resize: none;
+	overflow: auto;
+	height: 4em;
+	width: 20em;
+}
+
